@@ -1,0 +1,26 @@
+{
+    "startDate": "20160627",
+    "endDate": "20161125",
+    "odtTemplate": "templates/calendrier-declaratif-temps_standard_modele.ods",
+
+    "patternDateFormat": "YYYYMMDD",
+    "patternHumanDateFormat": "DD/MM/YYYY",
+    "_filenamePatternComment": "The file name pattern can contain any previous variable plus 'firstDayOfWeek' and 'lastDayOfWeek'",
+    "filenamePattern": "$$firstDayOfWeek$$.ods",
+    "filenameFinalPattern": "followup.ods",
+    "filepath": "output/avi",
+
+    "companyResponsible": "B. Escudié",
+    "companyConsultantFirstName": "Albin",
+    "companyConsultantLastName": "Vigier",
+
+    "activityDate": null,
+
+    "_computedFieldsComment": "Here are the computed fields",
+
+    "activityHalfDay": "3h45",
+    "activityFullDay": "07h30",
+    "activityMinutesPerDay": 450,
+
+    "days": []
+}
